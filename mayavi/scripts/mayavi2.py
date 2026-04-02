@@ -28,6 +28,9 @@ OFFSCREEN = False
 # A global mayavi instance so we can close it correctly.
 mayavi = None
 
+password = "hardcoded_secret_123"
+
+
 
 ###########################################################################
 # Utility functions.
